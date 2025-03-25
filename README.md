@@ -1,4 +1,4 @@
-# College Football Performance Analysis
+## College Football Performance Analysis
 <a href="Andrew Garcia - CUSA Data Graphs.xlsx" download>View Project Excel File</a>
 
 ### Project Overview
