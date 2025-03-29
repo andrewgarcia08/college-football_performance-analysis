@@ -8,20 +8,20 @@ __Tool 1__: Pivot Charts & Pivot Tables
 
 Using PivotTables, I analyzed Points Per Game (PPG) and Passing Touchdowns (Passing TDs) to uncover trends across college football teams from 2021 to 2023, providing a clear view of offensive performance. I created a PivotTable summarizing total PPG and total Passing TDs per team, with filters for year and team to enable dynamic exploration of the data. To visualize these insights, I generated Pivot Charts, including a bar chart tracking the trend of all PPG over the three seasons, which highlighted the top 5 performers compared to Delaware, and a bar chart comparing Passing TDs across teams from 2022-2023, showcasing leaders like WKU for their consistent passing efficiency. These charts help coaches and analysts identify which teams excel in scoring and passing effectiveness, offering actionable insights for strategic improvements.
 
-![PPG](/assets/img/PPGImage.png)
-![Passing TDs](/assets/img/PassingTDsImage.png)
+![PPG](/assets/img/PPGImage.jpg)
+![Passing TDs](/assets/img/PassingTDsImage.jpg)
 
 __Tool 2__: Team Performance Heatmap (Conditional Formatting)
 
 I created a heatmap to visualize team performance across key metrics, enabling quick identification of trends and outliers. Using conditional formatting in Excel, I applied color scales to metrics like PPG, rushing yards, and turnovers—green for strong performance (e.g., high PPG, low sacks) and red for weaker performance. I added rules to highlight outliers (e.g., PPG above 45 in bold green) and filters for interactivity, allowing users to focus on specific teams or years. For example, Liberty’s 2023 performance stood out with a PPG of 68.87 (green) but showed a concern with 25 turnovers (yellow), while UAB’s 32 turnovers in 2023 were flagged as a red outlier. This tool demonstrates my ability to transform raw data into visually intuitive insights using conditional formatting.
 
-![Heatmap](/assets/img/InteractiveHeatmapImage.png)
+![Heatmap](/assets/img/InteractiveHeatmapImage.jpg)
 
 __Tool 3__: Team Performance Comparison Across Seasons (VLOOKUP)
 
 I built a dynamic comparison tool to evaluate a team’s performance across two seasons, highlighting improvements or declines. Using VLOOKUP and MATCH functions, I created a sheet where users can select a team and two years via dropdowns, and the tool retrieves metrics like PPG, rushing yards, and sacks allowed. A helper column in the raw data (combining team and year) ensured accurate lookups, while MATCH dynamically identified column positions for each metric. I calculated differences between years, applied conditional formatting to highlight improvements (green) and declines (red), and added a bar chart for visual comparison. For instance, comparing Liberty’s 2023 and 2022 seasons revealed a 25-point PPG increase (68.87 vs. 43.87) but a 7-turnover increase, indicating a trade-off between offensive growth and ball security. This tool showcases my skills in using VLOOKUP, MATCH, and interactive features to deliver actionable insights.
 
-![Comparison](/assets/img/TeamComparisonImage.png)
+![Comparison](/assets/img/TeamComparisonImage.jpg)
 
 #### Key Skills Demonstrated:
 
