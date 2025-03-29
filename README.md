@@ -9,7 +9,11 @@ __Tool 1__: Pivot Charts & Pivot Tables
 Using PivotTables, I analyzed Points Per Game (PPG) and Passing Touchdowns (Passing TDs) to uncover trends across college football teams from 2021 to 2023, providing a clear view of offensive performance. I created a PivotTable summarizing total PPG and total Passing TDs per team, with filters for year and team to enable dynamic exploration of the data. To visualize these insights, I generated Pivot Charts, including a bar chart tracking the trend of all PPG over the three seasons, which highlighted the top 5 performers compared to Delaware, and a bar chart comparing Passing TDs across teams from 2022-2023, showcasing leaders like WKU for their consistent passing efficiency. These charts help coaches and analysts identify which teams excel in scoring and passing effectiveness, offering actionable insights for strategic improvements.
 
 ![PPG](/assets/img/PPGImage.jpg)
+<img src="assets/PPGImage.jpg" alt="PPG">
+
 ![Passing TDs](/assets/img/PassingTDsImage.jpg)
+<img src="assets/PassingTDsImage.jpg" alt="Passing TDs">
+
 
 __Tool 2__: Team Performance Heatmap (Conditional Formatting)
 
