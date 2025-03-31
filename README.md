@@ -1,6 +1,5 @@
 # College Football Performance Analysis
 <a href="Andrew Garcia - CUSA Data Graphs.xlsx" download>View Project Excel File</a>
-<p style="font-family: 'Times New Roman', Times, serif;">
 
 ### Project Overview
 This project analyzes college football team performance data from 2021 to 2023 to uncover trends, strengths, and areas for improvement. Using a dataset of team statistics (e.g., points per game, third-down conversions, passing/rushing yards, sacks, and turnovers), I developed two tools to provide actionable insights for coaches, analysts, or enthusiasts: a performance heatmap and a dynamic comparison tool.
