@@ -11,6 +11,7 @@ Using PivotTables, I analyzed Points Per Game (PPG) and Passing Touchdowns (Pass
 
 <img src="assets/PPGImage.jpg" alt="PPG">
 <img src="assets/PassingTDsImage.jpg" alt="Passing TDs">
+<img src="assets/PassingTDsImage.jpg" width="300">
 
 
 __Tool 2__: Team Performance Heatmap (Conditional Formatting)
@@ -18,12 +19,15 @@ __Tool 2__: Team Performance Heatmap (Conditional Formatting)
 I created a heatmap to visualize team performance across key metrics, enabling quick identification of trends and outliers. Using conditional formatting in Excel, I applied color scales to metrics like PPG, rushing yards, and turnovers—green for strong performance (e.g., high PPG, low sacks) and red for weaker performance. I added rules to highlight outliers (e.g., PPG above 45 in bold green) and filters for interactivity, allowing users to focus on specific teams or years. For example, Liberty’s 2023 performance stood out with a PPG of 68.87 (green) but showed a concern with 25 turnovers (yellow), while UAB’s 32 turnovers in 2023 were flagged as a red outlier. This tool demonstrates my ability to transform raw data into visually intuitive insights using conditional formatting.
 
 <img src="assets/Interactive Heatmap Image.jpg" alt="Interactive Heatmap">
+<img src="assets/Interactive Heatmap Image.jpg" width="300">
 
 __Tool 3__: Team Performance Comparison Across Seasons (VLOOKUP)
 
 I built a dynamic comparison tool to evaluate a team’s performance across two seasons, highlighting improvements or declines. Using VLOOKUP and MATCH functions, I created a sheet where users can select a team and two years via dropdowns, and the tool retrieves metrics like PPG, rushing yards, and sacks allowed. A helper column in the raw data (combining team and year) ensured accurate lookups, while MATCH dynamically identified column positions for each metric. I calculated differences between years, applied conditional formatting to highlight improvements (green) and declines (red), and added a bar chart for visual comparison. For instance, comparing Liberty’s 2023 and 2022 seasons revealed a 25-point PPG increase (68.87 vs. 43.87) but a 7-turnover increase, indicating a trade-off between offensive growth and ball security. This tool showcases my skills in using VLOOKUP, MATCH, and interactive features to deliver actionable insights.
 
 <img src="assets/TeamComparisonImage.jpg" alt="Team Comparison">
+<img src="assets/TeamComparisonImage.jpg" width="300">
+
 
 #### Key Skills Demonstrated:
 
