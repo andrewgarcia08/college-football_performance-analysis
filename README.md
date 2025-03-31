@@ -17,8 +17,7 @@ __Tool 2__: Team Performance Heatmap (Conditional Formatting)
 
 I created a heatmap to visualize team performance across key metrics, enabling quick identification of trends and outliers. Using conditional formatting in Excel, I applied color scales to metrics like PPG, rushing yards, and turnovers—green for strong performance (e.g., high PPG, low sacks) and red for weaker performance. I added rules to highlight outliers (e.g., PPG above 45 in bold green) and filters for interactivity, allowing users to focus on specific teams or years. For example, Liberty’s 2023 performance stood out with a PPG of 68.87 (green) but showed a concern with 25 turnovers (yellow), while UAB’s 32 turnovers in 2023 were flagged as a red outlier. This tool demonstrates my ability to transform raw data into visually intuitive insights using conditional formatting.
 
-<img src="assets/Interactive Heatmap Image.jpg" alt="Interactive Heatmap">
-<img src="assets/Interactive Heatmap Image.jpg" width="700">
+<img src="assets/Interactive Heatmap Image.jpg" width="700" height="500">
 
 __Tool 3__: Team Performance Comparison Across Seasons (VLOOKUP)
 
